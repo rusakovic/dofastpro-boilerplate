@@ -1,4 +1,6 @@
 # DoFastPro
+![image](https://github.com/rusakovic/dofastpro-boilerplate/assets/17801144/a3f2829a-7989-4535-8c44-41407acbdff9)
+
 
 ## Overview
 
@@ -7,6 +9,11 @@ DoFastPro is a self-hosted NextJS + Supabase boilerplate with Stripe payment int
 ## Website
 
 Check all features and docs at [dofastpro.com](https://dofastpro.com)
+
+## Why DoFastPro?
+To avoid such situations:
+![image](https://github.com/rusakovic/dofastpro-boilerplate/assets/17801144/bfc06ffe-894b-4b8f-847a-115b387e9a14)
+
 
 ## Features
 
